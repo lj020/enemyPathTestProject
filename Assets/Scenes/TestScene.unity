@@ -383,6 +383,11 @@ PrefabInstance:
       propertyPath: wayPoints.Array.data[2].y
       value: 16.189312
       objectReference: {fileID: 0}
+    - target: {fileID: 9200707425743095811, guid: 248378217cf862e4599088bc57dd98f2,
+        type: 3}
+      propertyPath: handleVisualisation
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 248378217cf862e4599088bc57dd98f2, type: 3}
 --- !u!1 &414899076
